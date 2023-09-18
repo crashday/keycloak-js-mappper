@@ -1,0 +1,12 @@
+{
+    "authenticators": [],
+    "policies": [],
+    "mappers": [
+        {
+            "name": "My Mapper",
+            "fileName": "mappers/my-script-mapper.js",
+            "description": "My Mapper from a JS file"
+        }
+    ],
+    "saml-mappers": []
+}
